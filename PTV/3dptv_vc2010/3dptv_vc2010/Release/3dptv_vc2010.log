@@ -1,0 +1,20 @@
+﻿Build started 07.09.2015 14:35:25.
+     1>Project "C:\PTV\3dptv_vc2010\3dptv_vc2010\3dptv_vc2010.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Creating "Release\3dptv_vc2010.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         3dptv_vc2010.vcxproj -> C:\PTV\3dptv_vc2010\3dptv_vc2010\..\..\3dptv.exe
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Release\3dptv_vc2010.unsuccessfulbuild".
+         Touching "Release\3dptv_vc2010.lastbuildstate".
+     1>Done Building Project "C:\PTV\3dptv_vc2010\3dptv_vc2010\3dptv_vc2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
